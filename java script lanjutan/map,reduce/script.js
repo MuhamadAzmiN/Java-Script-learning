@@ -44,3 +44,9 @@ const hasil = angka.filter(a => a >= 5)
 
 
 console.log(hasil)
+
+
+const angkaGenap = angka.map(a => a % 2 == 0 ? "genap" : "ganjil")
+console.table(angkaGenap)
+
+

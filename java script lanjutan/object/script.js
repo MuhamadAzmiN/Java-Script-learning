@@ -70,12 +70,31 @@ function Murid(nama, energi){
     }
     
 
+} 
+
+
+
+
+
+function main(nama){
+    this.nama = nama 
+    
 }
+
+
+const nama = new main("azmi")
+console.log(nama)
+
+
 
 
 
 let azmi = new Murid("azmi", 10)
 let doddy =  new Murid("dody", 10)
+
+
+const namaGuru = "asep"
+console.log(namaGuru)
 
 
 

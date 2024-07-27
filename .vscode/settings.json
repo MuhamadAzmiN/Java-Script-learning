@@ -1,0 +1,18 @@
+
+{
+    
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorSurroundingLinesStyle": "all",
+    "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New'",
+    "editor.minimap.maxColumn": 20,
+    "editor.minimap.side": "right",
+    "editor.minimap.size": "proportional",
+    "editor.inlineSuggest.showToolbar": "onHover",
+    "editor.find.autoFindInSelection": "never",
+    "editor.formatOnSave": true,
+    "workbench.editor.openSideBySideDirection": "right",
+    "workbench.editor.openPositioning": "right",
+    "workbench.sideBar.location": "left"
+}

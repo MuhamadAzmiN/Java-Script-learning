@@ -39,6 +39,14 @@ function Angkot(sopir,trayek,penumpang,kas){
         }
     }
 
+
+    this.jumlahSopir = function() {
+        for(var i = 0;i < this.penumpang.length;i++){
+            return this.penumpangNaik.length
+        }
+    }
+
+    
 }
 
 
