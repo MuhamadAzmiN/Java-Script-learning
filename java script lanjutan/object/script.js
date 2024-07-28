@@ -87,8 +87,6 @@ console.log(nama)
 
 
 
-
-
 let azmi = new Murid("azmi", 10)
 let doddy =  new Murid("dody", 10)
 

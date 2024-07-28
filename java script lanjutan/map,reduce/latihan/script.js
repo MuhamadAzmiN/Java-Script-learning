@@ -27,6 +27,3 @@ const PjmlVidio = document.querySelector('.jumlah-vidio')
 PjmlVidio.textContent = `Jumlah Vidio nya adalah ${jmlhVidio}`
 
 console.log(jmlhVidio)
-
-console.table("hello world")
-
