@@ -1,7 +1,5 @@
-
 {
-    
-    "editor.cursorStyle": "line",
+    "editor.cursorStyle": "line-thin",
     "editor.cursorBlinking": "smooth",
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.cursorSurroundingLinesStyle": "all",

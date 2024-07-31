@@ -47,6 +47,11 @@ function Mahasiswa(nama , umur){
 
 // }
 
+
+
+
+
+
 // constructor
 function Murid(nama, energi){
     this.nama = nama
@@ -70,13 +75,19 @@ function Murid(nama, energi){
     }
     
 
-} 
+}
 
 
+
+function mandi(porsi){
+    this.mandi += porsi
+    console.log(`nama saya adalah ${this.nama}`)
+}
 
 
 
 function main(nama){
+
     this.nama = nama 
     
 }
