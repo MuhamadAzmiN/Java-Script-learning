@@ -47,6 +47,8 @@
 
 
 const nama = document.querySelector('.nama')
+const pisah = [...nama.textContent]
+console.log(pisah)
 
 const huruf = [...nama.textContent].map(h => `<span>${h}</span>`).join('')
 
@@ -54,10 +56,3 @@ console.log(huruf)
 
 
 nama.innerHTML = huruf
-
-
-
-
-
-
-
